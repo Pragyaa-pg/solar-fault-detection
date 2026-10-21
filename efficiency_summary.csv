@@ -1,0 +1,3 @@
+Model,Model Size (MB),Avg Inference Time (ms),Std Inference Time (ms)
+mobilenet_v3,16.29,12.42,3.02
+resnet50,90.08,11.59,4.01
